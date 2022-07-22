@@ -4,7 +4,7 @@ require_relative "lib/rate_detector/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "rate_detector"
-  spec.version       = RateDetector::VERSION
+  spec.version       = "1.0.0"
   spec.authors       = ["Madan Ingnam"]
   spec.email         = ["madingnm@gmail.com"]
 
