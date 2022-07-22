@@ -1,6 +1,6 @@
-# MusicPlayer
+# Rate Detector
 
-A simple music player app. Everytime we run the app, it will print out the randomly generated list of songs, current song and the next song
+Volume rate detector app
 
 ## Dependencies
 
